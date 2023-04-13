@@ -1,0 +1,32 @@
+{
+    "ingameusername (all lowercase!)": {
+        "username": "ingameUsername (case sensitive)", 
+        "alts": ["alt1", "alt2", "All other alternate accounts (case sensitive)"],
+        "color": "#hex code for their color",
+        "pingNotifications": "true/false (do you want to be pinged on name mention?)", 
+        "altPingNotifications": "true/false (do you want to be pinged whenever alt account is mentioned?)",
+        "groupPingNotifications": "true/false (do you want to be pinged whenever cydonia is mentioned?)",
+        "miscPings": "true/false (do you want to be pinged for miscelanious pings?)",
+        "serverPings": "true/false (do you want to be pinged in the discord server for the above?)",
+        "DMPings": "false/true (or would you rather the bot DM you?)",
+        "discord": "501885489683628036 (DISCORD ID)",
+        "admin": true
+    }, 
+    "user2": {
+        "username": "ingameUsername (case sensitive)", 
+        "alts": ["alt1", "alt2", "All other alternate accounts (case sensitive)"],
+        "color": "#hex code for their color",
+        "pingNotifications": "true/false (do you want to be pinged on name mention?)", 
+        "altPingNotifications": "true/false (do you want to be pinged whenever alt account is mentioned?)",
+        "groupPingNotifications": "true/false (do you want to be pinged whenever cydonia is mentioned?)",
+        "miscPings": "true/false (do you want to be pinged for miscelanious pings?)",
+        "serverPings": "true/false (do you want to be pinged in the discord server for the above?)",
+        "DMPings": "false/true (or would you rather the bot DM you?)",
+        "discord": "501885489683628036 (DISCORD ID)",
+        "admin": true
+    },
+    "ect, ect.": {
+
+    }
+
+}

@@ -1,0 +1,16 @@
+{
+  "name": "cybot",
+  "version": "1.0.0",
+  "description": "Chatbot for SimpVP.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mineflayer": "^4.8.1",
+    "prismarine-chat": "^1.8.0"
+  }
+}
